@@ -42,7 +42,7 @@ Open a terminal and navigate to your home directory.
 
 Clone the repository by using the command
 ```
-git clone https://github.com/yashaxvi/Desktop-Voice-Assistant.git
+git clone https://github.com/shub-10/Virtual-voice-assistant.git
 ```
 
 Navigate to the project directory using the command
